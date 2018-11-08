@@ -13,6 +13,3 @@ test('Adds 1, -5, 9 to equal Error', ()=>{
     expect(quadraticEquation(1,-5,9)).toString("Error! I can't resolve the equation!")
 })
 
-test('Adds 1, -5, 9 to equal Error', ()=>{
-    expect(quadraticEquation(1,-4,4)).toBe(11)
-})
