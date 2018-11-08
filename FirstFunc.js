@@ -10,3 +10,4 @@ const quadraticEquation = (a,b,c)=>{
     }
     return x1,x2;
 }
+module.exports = quadraticEquation;
