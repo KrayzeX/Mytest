@@ -1,0 +1,3 @@
+var RemainderOfDivision =(a,b)=>{
+     
+}

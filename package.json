@@ -1,0 +1,22 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "Okey! This is a test  git on Linux!",
+  "main": "FirstFunc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrayzeX/Mytest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrayzeX/Mytest/issues"
+  },
+  "homepage": "https://github.com/KrayzeX/Mytest#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}

@@ -1,5 +1,4 @@
-
-const quadraticEquation = (a,b,c)=>{
+function quadraticEquation(a,b,c){
     var d,x1,x2;
     d=(Math.pow(b,2))-4*a*c;
     if (d >= 0){
@@ -10,3 +9,4 @@ const quadraticEquation = (a,b,c)=>{
     }
     return x1,x2;
 }
+module.exports = quadraticEquation;
